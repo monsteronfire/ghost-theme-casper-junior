@@ -4,3 +4,5 @@ The junior theme based on 'Casper', the default theme for [Ghost](http://github.
 
 To download the original 'Casper' theme, please visit the [releases](https://github.com/TryGhost/Casper/releases) page.
 
+This is just a play theme.
+
